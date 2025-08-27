@@ -5,7 +5,7 @@
 > **"Finally, a workflow platform that scales with your complexity instead of fighting it."**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Go Report Card](https://goreportcard.com/badge/github.com/flowforge-nexus/nexus)](https://goreportcard.com/report/github.com/flowforge-nexus/nexus)
+[![Go Report Card](https://goreportcard.com/badge/github.com/Dijital-Vizyon/flowforge-nexus)](https://goreportcard.com/report/github.com/Dijital-Vizyon/flowforge-nexus)
 [![Discord](https://img.shields.io/discord/123456789)](https://discord.gg/flowforge-nexus)
 [![Docker](https://img.shields.io/docker/pulls/flowforge/nexus)](https://hub.docker.com/r/flowforge/nexus)
 
@@ -301,7 +301,7 @@ We welcome contributions! See our [Contributing Guide](CONTRIBUTING.md).
 
 ### Development Setup
 ```bash
-git clone https://github.com/flowforge-nexus/nexus.git
+git clone https://github.com/Dijital-Vizyon/flowforge-nexus.git
 cd nexus
 make dev-setup
 make test
@@ -318,7 +318,7 @@ make test
 
 - **Discord**: [Join our community](https://discord.gg/flowforge-nexus)
 - **Documentation**: [docs.flowforge.io](https://docs.flowforge.io)
-- **Issues**: [GitHub Issues](https://github.com/flowforge-nexus/nexus/issues)
+- **Issues**: [GitHub Issues](https://github.com/Dijital-Vizyon/flowforge-nexus/issues)
 - **Enterprise**: [enterprise@flowforge.io](mailto:enterprise@flowforge.io)
 
 ## 📄 License
